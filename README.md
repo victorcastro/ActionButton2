@@ -1,6 +1,6 @@
 # ActionButton2
 
-[![CI Status](https://img.shields.io/travis/Victor Castro/ActionButton2.svg?style=flat)](https://travis-ci.org/Victor Castro/ActionButton2)
+[![CI Status](https://img.shields.io/travis/victorcastro/ActionButton2.svg?style=flat)](https://travis-ci.org/victorcastro/ActionButton2)
 [![Version](https://img.shields.io/cocoapods/v/ActionButton2.svg?style=flat)](https://cocoapods.org/pods/ActionButton2)
 [![License](https://img.shields.io/cocoapods/l/ActionButton2.svg?style=flat)](https://cocoapods.org/pods/ActionButton2)
 [![Platform](https://img.shields.io/cocoapods/p/ActionButton2.svg?style=flat)](https://cocoapods.org/pods/ActionButton2)
