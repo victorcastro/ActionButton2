@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ActionButton2_Example' do
+  pod 'ActionButton2', :path => '../'
+
+  target 'ActionButton2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
