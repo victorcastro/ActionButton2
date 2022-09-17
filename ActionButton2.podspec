@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ActionButton2'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of ActionButton2.'
+  s.version          = '2.0.0'
+  s.summary          = 'Action button 2 is a Floating Action Button inspired from Google Inbox implemented in Swift'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Victor Castro/ActionButton2'
+  s.homepage         = 'https://github.com/victorcastro/ActionButton2'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Victor Castro' => 'victorcastro.io@icloud.com' }
-  s.source           = { :git => 'https://github.com/Victor Castro/ActionButton2.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/victorcastro/ActionButton2.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

@@ -1,0 +1,22 @@
+{
+  "name": "ActionButton2",
+  "version": "0.1.0",
+  "summary": "A short description of ActionButton2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Victor Castro/ActionButton2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Victor Castro": "victorcastro.io@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/Victor Castro/ActionButton2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ActionButton2/Classes/**/*"
+}

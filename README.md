@@ -5,11 +5,12 @@
 [![License](https://img.shields.io/cocoapods/l/ActionButton2.svg?style=flat)](https://cocoapods.org/pods/ActionButton2)
 [![Platform](https://img.shields.io/cocoapods/p/ActionButton2.svg?style=flat)](https://cocoapods.org/pods/ActionButton2)
 
-## Example
+Action button is a Floating Action Button 2 inspired from Google Inbox implemented in Swift, clone the repo, and run `pod install` from the Example directory first.
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+![in action](Assets/ActionButton2_Sample.gif)
 
 ## Requirements
+- iOS 13.0+
 
 ## Installation
 
@@ -18,6 +19,11 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'ActionButton2'
+```
+
+Then, run the following command
+```
+$ pod install
 ```
 
 ## Author

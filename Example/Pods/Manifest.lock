@@ -1,0 +1,16 @@
+PODS:
+  - ActionButton2 (0.1.0)
+
+DEPENDENCIES:
+  - ActionButton2 (from `../`)
+
+EXTERNAL SOURCES:
+  ActionButton2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ActionButton2: 6021c0099973635f0493b83ebda651947033c578
+
+PODFILE CHECKSUM: 605b7ba20e5ec9839d51c13326fd81775630ea76
+
+COCOAPODS: 1.11.2
